@@ -1,0 +1,6 @@
+{
+  "name": "Magical Birthday Journey",
+  "description": "An interactive, immersive birthday celebration experience with memories, music, and special effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

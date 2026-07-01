@@ -31,7 +31,7 @@ export default function App() {
   };
 
   return (
-    <main className={`min-h-screen bg-[#1a0810] text-white relative font-sans selection:bg-rose-500/30 ${stage === 4 ? 'overflow-y-auto overflow-x-hidden' : 'overflow-hidden'}`}>
+    <main className={`min-h-screen bg-[#1a0810] text-white relative font-sans selection:bg-rose-500/30 ${stage === 1 ? 'overflow-y-auto overflow-x-hidden' : 'overflow-hidden'}`}>
       
       {hasStarted && (
         <div className="fixed top-[-1000px] left-[-1000px] opacity-0 pointer-events-none z-[-50]">
